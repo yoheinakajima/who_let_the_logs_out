@@ -9,7 +9,7 @@ A simple logging library for Python that captures API and function call details 
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/who_let_the_logs_out.git
+    git clone https://github.com/yoheinakajima/who_let_the_logs_out.git
     cd who_let_the_logs_out
     ```
 
