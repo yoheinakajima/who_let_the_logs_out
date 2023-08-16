@@ -49,6 +49,7 @@ add(1, 2)
 Logs will be written to `function_logs.ndjson`.
 
 ## Notes
+- This tries to run the same function separately to log the results, which isns't always smart. Also it doesn't always work, so looking into that...
 - Be mindful of what you log, especially if your logs might contain sensitive data.
 - This tool is intended for development and debugging purposes.
 
