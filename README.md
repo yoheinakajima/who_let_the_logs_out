@@ -28,7 +28,7 @@ Simply import the `api_logger` module before making any requests using the `requ
 import api_logger
 import requests
 
-response = requests.get('https://api.example.com/data')
+response = requests.get('https://catfact.ninja/fact')
 ```
 
 Logs will be written to `api_logs.ndjson`.
